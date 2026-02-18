@@ -51,7 +51,7 @@ Charts for product performance, order statistics (extendable)
 
 🖼️ Screenshots Screenshots are included in the documentation submitted with this project.
 
-📁 Folder Structure css Copy Edit ShopEZ/ ├── backend/ │ ├── src/main/java/com/shopez/ │ │ ├── controller/ │ │ ├── model/ │ │ ├── repository/ │ │ ├── service/ │ │ └── ShopezApplication.java │ └── resources/ │ └── application.properties ├── frontend/ │ ├── index.html │ ├── style.css │ └── script.js ├── README.md └── pom.xml 🚀 How to Run This Project 1️⃣ Clone the Repository bash Copy Edit git clone https://github.com/Jeelaeesha/ShopEZ.git cd ShopEZ 2️⃣ Set Up Backend Prerequisites: Java 17+, Maven, and MongoDB
+📁 Folder Structure css Copy Edit ShopEZ/ ├── backend/ │ ├── src/main/java/com/shopez/ │ │ ├── controller/ │ │ ├── model/ │ │ ├── repository/ │ │ ├── service/ │ │ └── ShopezApplication.java │ └── resources/ │ └── application.properties ├── frontend/ │ ├── index.html │ ├── style.css │ └── script.js ├── README.md └── pom.xml 🚀 How to Run This Project 1️⃣ Clone the Repository bash Copy Edit git clone https://github.com/Jeelaeesha/Shopez-One-Stop-Shop-For-Online-Purchases.git cd ShopEZ 2️⃣ Set Up Backend Prerequisites: Java 17+, Maven, and MongoDB
 
 Configure application.properties with your MongoDB URI
 
